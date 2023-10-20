@@ -9,7 +9,6 @@ Exploring the intricate world of artificial intelligence and uncovering patterns
 ![C++](https://img.shields.io/badge/-C++-000000?logo=c%2B%2B&style=flat)
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](https://ubuntu.com/)
-[![CUDA](https://img.shields.io/badge/CUDA-76B900?&logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda-zone)
 ![Docker](https://img.shields.io/badge/-Docker-9cf?style=flat-square&logo=docker)
 
 <!-- 
