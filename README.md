@@ -1,9 +1,11 @@
 ### ☁️About me
 👋 Hello, I'm Yoo Seung-eon, an undergraduate research student in the Department of Computer Science and Engineering at Dong-A University.
 
+<!--
 ### 🛰️I'm interested in..
 🌟 I'm deeply passionate about the fields of deep learning and signal processing. 
 Exploring the intricate world of artificial intelligence and uncovering patterns in data is what drives me.
+--!>
 
 ![Main](https://img.shields.io/badge/-🍽_Main-lightgrey?style=flat-square)
 ![C++](https://img.shields.io/badge/-C++-000000?logo=c%2B%2B&style=flat)
