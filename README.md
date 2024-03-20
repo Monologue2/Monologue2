@@ -1,11 +1,13 @@
 ### ☁️About me
 👋 Hello, I'm Yoo Seung-eon, an undergraduate research student in the Department of Computer Science and Engineering at Dong-A University.
 
+<!--
 ![Main](https://img.shields.io/badge/-🍽_Main-lightgrey?style=flat-square)
 ![C++](https://img.shields.io/badge/-C++-000000?logo=c%2B%2B&style=flat)
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 ![Docker](https://img.shields.io/badge/-Docker-9cf?style=flat-square&logo=docker)
+--!>
 
 
 <!--
