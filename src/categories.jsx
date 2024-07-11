@@ -90,7 +90,7 @@ export const Productive_Tools = {
         icon : "/img/icon/conda.png",
     },
     Editor: {
-        content : "ditor : VSC, Jupyter Lab",
+        content : "Editor : VSC, Jupyter Lab",
         icon : "/img/icon/vsc.png",
     }
 };
