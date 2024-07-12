@@ -1,4 +1,4 @@
-class Project {
+export class Project {
     constructor(name, timeframe, overview, role) {
         this.name = name
         this.timeframe = timeframe
@@ -6,7 +6,6 @@ class Project {
         this.role = role
     }
 }
-
 
 export const Cloud_For_Edu = new Project(
     '교육용 클라우드<br />개발 환경 기획 및 배포',
