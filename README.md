@@ -1,70 +1,51 @@
-# Getting Started with Create React App
+### ☁️About me
+👋 Hello, I'm Yoo Seung-eon, an undergraduate research student in the Department of Computer Science and Engineering at Dong-A University.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!--
+![Main](https://img.shields.io/badge/-🍽_Main-lightgrey?style=flat-square)
+![C++](https://img.shields.io/badge/-C++-000000?logo=c%2B%2B&style=flat)
+![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+![Docker](https://img.shields.io/badge/-Docker-9cf?style=flat-square&logo=docker)
+--!>
 
-## Available Scripts
 
-In the project directory, you can run:
+<!--
+### 🛰️I'm interested in..
+🌟 I'm deeply passionate about the fields of deep learning and signal processing. 
+Exploring the intricate world of artificial intelligence and uncovering patterns in data is what drives me.
+--!>
 
-### `npm start`
+<!-- 
+ ##Hi there! 👋
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+I'm [Your Name], a passionate software developer with a love for coding and problem-solving. Welcome to my GitHub profile!
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🔭 I’m currently working on ...
 
-### `npm test`
+I'm currently working on various projects to enhance my programming skills and explore new technologies. Check out my repositories to see what I've been up to!
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🌱 I’m currently learning ...
 
-### `npm run build`
+I'm constantly learning and expanding my knowledge in different areas. Currently, I'm focusing on sharpening my skills in Python, JavaScript, and web development frameworks.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 👯 I’m looking to collaborate on ...
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+I'm always open to collaborating on interesting projects. If you have any exciting ideas or need assistance with your project, feel free to reach out to me!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🤔 I’m looking for help with ...
 
-### `npm run eject`
+If you have expertise in any of the technologies or frameworks I'm working on and would like to share your knowledge, I would greatly appreciate your help and guidance.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 💬 Ask me about ...
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+If you have any questions about my projects, programming concepts, or anything else related to software development, feel free to ask! I'm always happy to help and share my knowledge.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 📫 How to reach me: ...
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+You can reach me via email at [your@email.com](mailto:your@email.com) or connect with me on LinkedIn [here](https://www.linkedin.com/in/yourprofile/). I'm looking forward to hearing from you!
 
-## Learn More
+## 😄 Pronouns: ...
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+You can refer to me using the pronouns he/him.
+ -->
