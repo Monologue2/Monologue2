@@ -1,13 +1,171 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .all-\[unset\] {
+    all: unset;
+  }
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+:root {
+  --black: rgba(0, 0, 0, 1);
+  --gray: rgba(143, 143, 143, 1);
+  --lightgray: rgba(219, 219, 219, 1);
+  --main: rgba(133, 122, 255, 1);
+  --white: rgba(255, 255, 255, 1);
+}
+
+.padding {
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+.header {
+  width: 1240px;
+  margin: auto;
+  display: grid;
+}
+
+main {
+  background: #ffffff;
+  min-height: 1080px;
+}
+
+.main-container {
+  background: #f7f7f7;
+  width: 1240px;
+  margin: auto;
+  display: grid;
+  gap : 20px;
+  padding-bottom: 140px;
+  padding-top: 100px;
+}
+
+.profile-container {
+  width: 1080px;
+  margin: auto;
+  display: grid;
+  grid-template-columns: 240px 820px;
+  grid-template-rows: 440px;
+  gap: 20px
+}
+
+.profile-image-contect {
+  width: 100%;
+  height: 100%;
+}
+
+/* 자기소개칸, 폰트 정의 */
+.profile-introduce {
+  /* background: rgb(255, 255, 255); */
+  word-wrap: break-word; /* 긴 단어 줄 바꿈 */
+  white-space: pre-wrap; /* 긴 단어 줄 바꿈 */
+  width: 100%;
+  height: 100%;
+}
+
+.profile-text {
+  text-align: left;
+  margin-bottom: 25px;
+  padding-left: 30px;
+  font-family: 'Pretendard Regular';
+}
+
+.skill-container {
+  width: 1080px;
+  margin: auto;
+  display: grid;
+  grid-template-columns: 260px 260px 260px 260px;
+  grid-template-rows: 130px 130px;
+  padding-left : 5px;
+  gap: 10px;
+}
+
+.skill {
+  width: 100%;
+  height: 100%;
+  word-wrap: break-word; /* 긴 단어 줄 바꿈 */
+  white-space: pre-wrap; /* 긴 단어 줄 바꿈 */
+  font-size:14px;
+}
+
+.skill .category {
+  color : rgb(170, 38, 170);
+  font-size : 16px;
+  height: 20px;
+}
+
+.skill .item {
+  margin : 5px 0 5px 5px;
+}
+
+.project-container {
+  width: 1080px;
+  margin: auto;
+  display: grid;
+  grid-template-columns: 300px 700px;
+  grid-template-rows: auto;
+  gap: 40px
+}
+
+.project-intro {
+  padding-left: 20px;
+  width: 100%;
+  height: 100%;
+  word-wrap: break-word; /* 긴 단어 줄 바꿈 */
+  white-space: pre-wrap; /* 긴 단어 줄 바꿈 */
+}
+
+.project {
+  font-size: 20px;
+  font-family: 'Pretendard SemiBold';
+}
+
+.project-content {
+
+  width: 100%;
+  height: 100%;
+  word-wrap: break-word; /* 긴 단어 줄 바꿈 */
+  white-space: pre-wrap; /* 긴 단어 줄 바꿈 */
+}
+
+.project-subcontent {
+  font-size: 14px;
+}
+
+.project-subtitle {
+  font-size: 16px;
+}
+.timeframe {
+  font-size: 12px;
+  opacity: 0.5;
+}
+
+.title {
+  padding-left: 80px;
+  padding-top: 20px;
+  font-size: 24px;
+}
+
+.title .color {
+  background-color: rgba(189, 96, 255, 0.2);
+  border-radius: 6px; /* 모서리 둥글게 */
+  display: inline-block; 
+  padding: 1px 6px; /* 위, 아래 5px; 좌, 우 20px */
+}
+
+.line-margin {
+  margin :auto;
+}
+
+.info-block {
+  background: rgb(0, 0, 0);
+  width: 1240px;
+  height: 120px;
+  margin: auto
+}
+
+.info-block .bottom-text {
+  font-size : 12px;
 }
