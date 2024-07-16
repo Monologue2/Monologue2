@@ -25,10 +25,10 @@ function Main() {
                         <LinkedItem icon="/img/icon/email-black.png" content="seyoumoon@gmail.com" link="mailto:seyoumoon@gmail.com"/>
                     </div>
                     <div className="profile-introduce">
-                        <div className="profile-text text-head3">Junior DevOps 엔지니어 유승언입니다.</div>
+                        <div className="profile-text text-head3">가치를 중요시하는 Junior DevOps 엔지니어 유승언입니다.</div>
                         <div className="profile-text" >AI Digital Twin Lab 재직 중 진행한 국가 연구 프로젝트에서<br/>개발 외의 프로비저닝 시간을 줄이기 위해 Docker를 배우게 된 걸 계기로 DevOps의 세계에 발을 들였으며,<br/>빌드 및 배포 자동화, 테스트 자동화를 국가 연구 프로젝트에 적용하여 개발 시간을 크게 단축했습니다. </div>
                         <div className="profile-text" >이후 DevOps 에 대한 안목을 기르기 위해 컨테이너 오케스트레이션, 클라우드 분야에 관심을 가지고 <br/>프로젝트 배포를 위해 CPU Intance 6기와 AWS EC2 2기 규모의 홈 랩을 구축하여<br/>Grafana, Prometheus, Jenkins, Git Action, K3S와 Docker를 이용하여 관리하고 있습니다.<br/></div>
-                        <div className="profile-text" >저는 시간의 가치를 알며 Docker, Kubernetes와 CI/CD, 모니터링 툴을 사용하여 프로비저닝 시간을 단축하는 엔지니어입니다.<br/>현재까지도 개인 역량을 성장시키기 위해 공부를 멈추지 않고 있습니다. 감사합니다. </div>
+                        <div className="profile-text" >저는 Docker, Kubernetes와 CI/CD, 모니터링 툴을 사용하여<br/>프로비저닝 시간을 줄이는데 가치를 두는 엔지니어입니다.<br/>현재까지도 개인 역량을 성장시키기 위해 공부를 멈추지 않고 있습니다. 감사합니다. </div>
                     </div>
                 </div>
 
