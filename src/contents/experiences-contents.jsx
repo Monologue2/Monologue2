@@ -75,7 +75,7 @@ export const Beharbor = new Project(
 )
 
 export const Docker = new Project(
-    '학부생 대상 Docker 강의 및 실습',
+    'Docker 실습 기획 및 강의',
     '2023.06 ~ 2023.07',
     {
         Content1 : "동아대학교 학부생 26명 대상으로 Docker 강의 및 실습을 제공했습니다.",
